@@ -108,14 +108,6 @@ a { color: var(--green-soft); }
 
 .note p:last-child { margin-bottom: 0; }
 
-.placeholder {
-  background: #fff3cd;
-  border: 1px dashed #b8860b;
-  border-radius: 4px;
-  padding: 0.1rem 0.4rem;
-  font-weight: 600;
-}
-
 footer {
   border-top: 1px solid var(--rule);
   margin-top: 3rem;
